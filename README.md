@@ -1,4 +1,4 @@
-### Hola, soy Nahu 👋
+### Hola, soy Nahu
 
 Soy un apasionado por la tecnología, con un camino que va desde la **Electromecánica** hasta la **Ciencia de Datos** y el **Desarrollo de Software**.
 
@@ -6,7 +6,7 @@ Actualmente combino mis estudios en la **Universidad Siglo 21** (Lic. en Ciencia
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Lenguajes & Herramientas:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +22,7 @@ Actualmente combino mis estudios en la **Universidad Siglo 21** (Lic. en Ciencia
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 🔹 **[Bot de Ajedrez (LSTM)](https://github.com/Nahuelito22/Bot_Ajedrez)**
 Desarrollo de una IA capaz de detectar patrones de jugadas y generar movimientos plausibles, entrenada con redes neuronales LSTM sobre un corpus de partidas PGN.
@@ -38,7 +38,7 @@ Aplicación de técnicas de clustering no supervisado (K-Means, DBSCAN) para seg
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### Mis Estadísticas en GitHub
 
 ![Estadísticas de Nahu](https://github-readme-stats.vercel.app/api?username=Nahuelito22&show_icons=true&theme=dracula&hide_border=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuelito22&layout=compact&theme=dracula&hide_border=true)
