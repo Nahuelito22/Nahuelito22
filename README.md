@@ -91,7 +91,7 @@ Actualmente combino mis estudios en la **Universidad Siglo 21** y desarrollo de 
 <a href="https://www.linkedin.com/in/nahuel-ghilardi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://nahuel-portfolio.vercel.app/" target="_blank">
+<a href="http://www.nahuelghilardi.com.ar//" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visitar_Web-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
