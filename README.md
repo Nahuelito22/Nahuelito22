@@ -13,8 +13,8 @@ I take products **from data to production**: I design the model, turn it into so
 | When | Where | What |
 |---|---|---|
 | 2026 — now | **Dialogy LLC** · USA | Freelance technical lead: backend, in-app payments and app store publishing. |
-| 2025 — 2026 | **AstroFit** | Co-founded, built and **sold** a gym management SaaS. Supporting the technical handover until December. |
-| 2026 | **Hackathon EduTech Mendoza** | Technical staff. Built the event platform: +300 sign-ups, 150 participants, +40 mentors and judges. |
+| 2025 — 2026 | **AstroFit** | Co-founded and built a gym management SaaS. In 2026 I transferred the system, adapted, to Gimnasio Gemza; the brand remains mine. Supporting them until December. |
+| 2026 | **Hackathon EduTech Mendoza** | Organiser and platform developer. Built the event platform: +300 sign-ups, 150 participants, +40 mentors and judges. |
 
 ### Case studies
 
@@ -60,8 +60,8 @@ Llevo productos **del dato a producción**: diseño el modelo, lo convierto en s
 
 **Hoy:** responsable técnico en [Dialogy LLC](https://www.dialogy.info/) (EE.UU.), una app móvil de bienestar emocional con asistente de IA.
 
-- **AstroFit:** cofundé, desarrollé y **vendí** un SaaS de gestión de gimnasios.
-- **Hackathon EduTech Mendoza:** staff técnico; desarrollé la plataforma del evento (+300 inscriptos).
+- **AstroFit:** cofundé y desarrollé un SaaS de gestión de gimnasios; en 2026 traspasé el sistema, adaptado, a Gimnasio Gemza (la marca sigue siendo mía).
+- **Hackathon EduTech Mendoza:** organizador; desarrollé la plataforma del evento (+300 inscriptos).
 - **Nimbus AI:** sistema de alerta temprana de granizo para Mendoza.
 
 Estudio la Licenciatura en Ciencia de Datos (Siglo 21) y la Tecnicatura en Desarrollo de Software (CESIT 9-023).
